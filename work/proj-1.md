@@ -1,12 +1,14 @@
 ---
-title: Typo International Design Talks Stuff
+title: UK Flag <br> 760 Pixel <br> € 1900 (L)<br> € 760 (S)
 ---
 
-![Typo International](assets/img/work/proj-1/img1.jpg)
+![UK Flag](assets/img/work/proj-1/img1.jpg)
 
-TYPO: International Design Talks is an annual event held in Berlin, London, and San Francisco. This promotional project is developed to market the event for the designindustry. The use of patterns, sophisticated color scheme and typography are applied for the print and mobile application.
+I made this flag as my second prototyp. I has remotely dimmable LEDs and size of ca. 150cm x 90cm. The frame is covered by a leather replica.
+With this prototype I focused on those premium features.  
 
-![Typo International](assets/img/work/proj-1/img2.jpg)
-![Typo International](assets/img/work/proj-1/img3.jpg)
-![Typo International](assets/img/work/proj-1/img4.jpg)
-![Typo International](assets/img/work/proj-1/img5.jpg)
+
+![UK Flag](assets/img/work/proj-1/img2.jpg)
+![UK Flag](assets/img/work/proj-1/img3.jpg)
+![UK Flag](assets/img/work/proj-1/img4.jpg)
+![UK Flag](assets/img/work/proj-1/img5.jpg)
